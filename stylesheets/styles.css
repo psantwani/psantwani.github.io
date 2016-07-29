@@ -1683,7 +1683,7 @@ body { background-color: #e2e3e4 }
     position: relative;
     min-height: 400px;
     height: 100%;
-    background: url(../images/programmer.png) #333 right no-repeat;
+    background: url(../images/programmer_opt.jpg) #333 right no-repeat;
     background-size: cover;
     color: #FFF;
 }
