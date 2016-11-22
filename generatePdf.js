@@ -6,7 +6,7 @@ var page = require('webpage').create(),
 
 var url = 'resume.html',
     output = 'res.pdf',
-    size = ['210mm', '297mm', '18mm', '9mm'],
+    size = ['250mm', '297mm', '18mm', '9mm'],
     viewport = ['1280', '720'],
     scale = 0.96;
 
